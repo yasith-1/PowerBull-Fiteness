@@ -1,5 +1,5 @@
 import { FiFacebook, FiInstagram, FiTwitter, FiYoutube, FiArrowRight, FiMail } from 'react-icons/fi';
-import logo from '../assets/gym-logo.jpg';
+import logo from '../assets/gym-logo.png';
 
 export default function Footer() {
   return (

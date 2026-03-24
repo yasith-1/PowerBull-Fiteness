@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { FiMenu, FiX, FiMoon, FiSun } from 'react-icons/fi';
 import { useTheme } from '../hooks/useTheme';
-import logo from '../assets/gym-logo.jpg';
+import logo from '../assets/gym-logo.png';
 
 const navLinks = [
   { name: 'Home', href: '#home' },
