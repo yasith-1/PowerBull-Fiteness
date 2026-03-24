@@ -60,10 +60,10 @@ export default function Hero() {
           
           <motion.h1 
             variants={itemVariants}
-            className="text-4xl sm:text-6xl md:text-8xl font-black text-white mb-8 uppercase tracking-tighter leading-[0.9] drop-shadow-2xl"
+            className="text-4xl lg:text-7xl md:text-6xl font-black text-white mb-8 uppercase tracking-tighter leading-[0.9] drop-shadow-2xl"
           >
-            <span className='tracking-wider'>TRANSFORM</span> <br />
-            <span className="text-primary">YOUR LIFE</span>
+            <span className='tracking-wider'>Build Your Dream</span> <br />
+            <span className="text-primary">physique  &nbsp; Body</span>
           </motion.h1>
           
           <motion.p 
