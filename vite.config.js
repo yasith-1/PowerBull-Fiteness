@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
-  base: '/GorillaFit/'
+  base: '/PowerBull-Fitness/'
 })
