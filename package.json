@@ -1,9 +1,9 @@
 {
-	"name": "powerbull-fiteness",
+	"name": "PowerBull-Fitness",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
-	"homepage": "https://yasith-1.github.io/PowerBull-Fiteness/",
+	"homepage": "https://yasith-1.github.io/PowerBull-Fitness/",
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
